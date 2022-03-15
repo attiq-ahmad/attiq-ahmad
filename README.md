@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @attiq-ahmad
+- 👀 I’m interested in Databases and backend technologies.
+- 🌱 I’m currently learning Web Development .
+- 📫 Ping me if you got any problem about SQL or in Web Developement at attiqmughal70@gmail.com 💞️.
